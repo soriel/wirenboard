@@ -20,8 +20,11 @@
 
 #### 1. Подготовка MikroTik
 1.**Для работы скрипта на стороне MikroTik должен быть установлен пакет **iot**.**
+
 /system/package/update/check-for-updates
+
 /system/package/enable iot
+
 /system reboot
 
 3. **Настройте MQTT Broker:**
