@@ -2,7 +2,7 @@
 // MQTT driver for MikroTik RouterOS device info
 // In mikrotik create script
 //# Required packages: iot
-
+//#################################### START SCRIPT #####################################
 //################################ Configuration ################################
 //# Name of an existing MQTT broker that should be used for publishing
 //:local broker "wirenboard"
